@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>tt1.jpg</file>
+    <file>TeamJidkie.jpg</file>
+  </qresource>
+</RCC>
